@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Filippo Masi"
 title_separator          : "-"
-name                     : &name "Filippo Masi"
+name                     : &name "Filippo Masio"
 description              : &description "Postdoctoral Research Associate"
 url                      : https://filippo-masi@github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
