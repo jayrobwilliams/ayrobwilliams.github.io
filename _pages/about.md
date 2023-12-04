@@ -8,23 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Greeting! I am a Ph.D. candidate in the deparment of civil and environmental engineering (CEE) at the University of Maryland (UMD), currently conducting reserach as part of [Dr.Baecher's](https://cee.umd.edu/clark/faculty/244/Gregory-B-Baecher) esteemed reserach group. I am also a research collaborator with the 
+[Risk-Informed Solutions in Engineering Laboratory](https://riselab.umd.edu/). I received M.S.in civil engineering in project management from UMD in 2020 and M.S.in civil engineering in structure engineering from San Franciso State University (SFSU) in 2018. 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+My academic work has been published or is forthcoming in esteemed journals such as the *International Journal of Disaster Risk Reduction*, the *Journal of Biomedical Informatics*, the *Journal of Construction Engineering and Management*, the *Fire Safety Journal*, and the J*ournal of Air Transport Management*, among others. These [researches](reserach) focus on harnessing crowdsourced information to enhance informed decision-making in emergency management spanning a spectrum from disaster response and pandemic preparedness to humanitarian crises. The ultimate goal is to play a role in fostering resilient and sustainable communities, thus contributing to a better future for all. 
+
+
+
+

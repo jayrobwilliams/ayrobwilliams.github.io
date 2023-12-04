@@ -6,14 +6,14 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Research2"
+    url: /research/
+
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "Posts"
-    url: /posts/
+  - title: "Talks"
+    url: /talks/
     
   - title: "CV"
     url: /cv/
